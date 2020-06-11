@@ -10,7 +10,6 @@ Autocomplete is now seen as a popular feature across Search Engine, Integrated D
 ### Execution
 * bash driverScript
 ### Output
-![alt text](https://github.com/SHIBANIHEGDE/Autocomplete/blob/master/Output.png "Output")
-
+<img src="https://github.com/SHIBANIHEGDE/Autocomplete/blob/master/Output.png" style=" width:250px ; height:250px " />
 
 
