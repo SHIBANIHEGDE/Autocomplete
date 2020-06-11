@@ -1,0 +1,2 @@
+gcc driver.c
+./a.out
